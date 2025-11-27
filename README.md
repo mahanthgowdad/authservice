@@ -1,5 +1,5 @@
 
-# authservicex1
+# Authservice
 
 **authservicex1** is a Spring Boot application designed to provide security features and authentication services. It utilizes Spring Security for access control, Spring Data JPA for database persistence, and integrates with MySQL.
 
